@@ -134,5 +134,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Create an issue for bug reports
 - Start a discussion for feature requests
 - Star the project if you find it useful!
-
-Project Link: [https://github.com/yourusername/DocuExtract-AI](https://github.com/yourusername/DocuExtract-AI)
