@@ -1,6 +1,6 @@
-# Documorpher AI 🤖
+# Documorpher
 
-Documorpher AI is an intelligent document transformation tool that leverages AI to extract, transform, and structure data across different document formats and modalities. Whether you need to convert DOCX to Excel while preserving context or extract key information from PDFs, DocuExtract AI ensures accurate and structured transformations.
+Documorpher is an intelligent document transformation tool that leverages AI to extract, transform, and structure data across different document formats and modalities. Whether you need to convert DOCX to Excel while preserving context or extract key information from PDFs, Documorpher ensures accurate and structured transformations.
 
 ## 🌟 Features
 - 📄 Support for DOCX, and Excel formats (other in progress)
