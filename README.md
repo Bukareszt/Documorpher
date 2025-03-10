@@ -15,11 +15,12 @@ Documorpher is an intelligent document transformation tool that leverages AI to 
 
 ## 📚 Use Case Example
 
-Need to transform a set of DOCX documents into an Excel spreadsheet? With DocuExtract AI, you can easily define a  mapping  of DOCX files to structured Excel columns while preserving contextual meaning. This makes it ideal for:
+Need to transform a set of DOCX documents into an Excel spreadsheet? With Documorpher, you can easily define a mapping of DOCX files to structured Excel columns while preserving contextual meaning. This makes it ideal for:
 
 - Extracting invoices, reports, and structured documents into Excel
 - Transforming product descriptions into a structured sections
 - Ensuring context-aware data extraction from unstructured documents
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -33,7 +34,7 @@ Need to transform a set of DOCX documents into an Excel spreadsheet? With DocuEx
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Bukareszt/DocuExtract.git
+git clone git@github.com:Bukareszt/Documorpher.git
 cd DocuExtract-AI
 ```
 
@@ -60,7 +61,7 @@ npm run dev
    - Preview the expected data structure in real-time
 
 2. **Upload Documents**
-   - Drag and drop or select DOCX/PDF files
+   - Drag and drop or select files
    - Support for multiple documents
    - Instant file type validation
 
