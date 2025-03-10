@@ -1,18 +1,25 @@
-# DocuExtract AI 🤖
+# Documorpher AI 🤖
 
-DocuExtract AI is an intelligent document data extraction tool that uses AI to automatically parse and structure data from DOCX and PDF documents. Define your schema once, and extract structured data from multiple documents instantly.
+Documorpher AI is an intelligent document transformation tool that leverages AI to extract, transform, and structure data across different document formats and modalities. Whether you need to convert DOCX to Excel while preserving context or extract key information from PDFs, DocuExtract AI ensures accurate and structured transformations.
 
 ## 🌟 Features
-
-- 📄 Support for DOCX and PDF documents
-- 🎯 Custom schema definition with multiple data types
+- 📄 Support for DOCX, and Excel formats (other in progress)
+- 🎯 AI-powered data transformation ensuring contextual accuracy
+- 💡 Custom schema definition with multiple data types
 - 🔄 Batch processing of multiple documents
 - 🎨 Interactive UI for schema building
 - 📊 Real-time preview of extracted data
 - 🔍 Source text highlighting for extracted values
-- ⬇️ Export results in JSON format
-- 🔐 Bring your own OpenAI API key
+- ⬇️ Export results in structured JSON, CSV, or Excel format
+- 🔒 Bring your own OpenAI API key for AI-driven extraction
 
+## 📚 Use Case Example
+
+Need to transform a set of DOCX documents into an Excel spreadsheet? With DocuExtract AI, you can easily define a  mapping  of DOCX files to structured Excel columns while preserving contextual meaning. This makes it ideal for:
+
+- Extracting invoices, reports, and structured documents into Excel
+- Transforming product descriptions into a structured sections
+- Ensuring context-aware data extraction from unstructured documents
 ## 🚀 Getting Started
 
 ### Prerequisites
